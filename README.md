@@ -40,13 +40,14 @@ Thus, the circuit provides an audio-visual alert.
 
 ## 🔌 Circuit Diagram
 
-The complete circuit schematic is included in this repository.
+circuit diagram
+(circuit-diagram.png)
 
 ## 🧪 Simulation
 
 The circuit was successfully simulated using Tinkercad.
 
-The simulation demonstrates the working of the LED and piezo buzzer as the alert outputs.
+The simulation demonstrates the working of the green LED and piezo buzzer as the alert outputs.
 
 ## 📚 What I Learned
 
